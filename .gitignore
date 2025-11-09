@@ -1,5 +1,5 @@
 tmp/
 .DS_Store
-img/Thumbs.db
+Thumbs.db
 *_old
 *_backup
